@@ -101,7 +101,10 @@ window.translations = {
     t_150: "Language:"
   },
   vi: {
-    t_1: "Cơ Thể Vướngng Mắc",
+    t_1: "Cơ Thể Vướng Mắc",
+    t_2: "Cơ Thể Vướng Mắc",
+    t_3: "Cơ Thể Vướng Mắc",
+    t_4: "Cơ Thể Vướng Mắc",
     t_5: "Cơ Thể Vướng Mắc",
     t_6: "BẮT ĐẦU",
     t_8: "CÀI ĐẶT",
@@ -111,44 +114,110 @@ window.translations = {
     t_13: "TIẾP THEO",
     t_14: "GIỚI THIỆU",
     t_15: "Những thói quen không lành mạnh tích tụ qua nhiều năm có thể làm tổn thương nghiêm trọng các hệ thống liên kết trong cơ thể—từ tim và phổi đến lượng đường trong máu và tuần hoàn—tạo ra một mạng lưới phức tạp các bệnh mãn tính.",
+    t_16: "TIẾP THEO",
     t_17: "chọn một chủ đề để khám phá",
     t_18: "bia",
     t_19: "Thuốc lá",
     t_21: "THUỐC LÁ",
     t_22: "- Hút thuốc là một trong những tác nhân chính gây hại cho phổi. Khói độc tích tụ trong nhiều năm, dẫn đến một khối u lớn ở đỉnh ngực, và thậm chí làm cho hai lá phổi xơ cứng như một mảnh bọt biển rách, làm biến dạng các mạch máu chính và buộc trái tim yếu ớt phải gánh chịu.<br/>- Hiện tại, cơ thể đã nhiễm bệnh và vẫn đang tiếp tục xấu đi, nhưng vẫn có thể cứu vãn được.",
+    t_23: "- Hút thuốc là một trong những tác nhân chính gây hại cho phổi. Khói độc tích tụ trong nhiều năm, dẫn đến một khối u lớn ở đỉnh ngực, và thậm chí làm cho hai lá phổi xơ cứng như một mảnh bọt biển rách, làm biến dạng các mạch máu chính và buộc trái tim yếu ớt phải gánh chịu.<br/>- Hiện tại, cơ thể đã nhiễm bệnh và vẫn đang tiếp tục xấu đi, nhưng vẫn có thể cứu vãn được. Bạn có thể trải nghiệm bằng cách làm bệnh nặng thêm hoặc tìm cách chữa trị.",
     t_24: "BẮT ĐẦU",
+    t_25: "<section class=\"PageContent\"><div class=\"Rectangle2\" data-layer=\"Rectangle 2\"></div><div class=\"Intro\" data-i18n=\"t_8\" data-layer=\"Intro\">CÀI ĐẶT</div><div class=\"Page1-TheEntangledBody\" data-i18n=\"t_9\" data-layer=\"The Entangled Body\">Cơ Thể Vướng Mắc</div><img class=\"Art7\" src=\"Artboard 7.png\"/><img class=\"Art30\" src=\"Artboard 30.png\"/><img class=\"Art31\" src=\"Artboard 31.png\"/></section>",
     t_26: "BIA",
     t_27: "- Uống rượu bia vô độ trong nhiều năm không chỉ tạo ra một khối u sần sùi trong gan mà còn biến toàn bộ cơ quan này thành một viên sỏi cứng, khiến máu ứ đọng và làm sưng tấy trong cổ họng, đồng thời làm máu mất đi khả năng đông.<br/>- Hiện tại, cơ thể đã nhiễm bệnh và vẫn đang tiếp tục xấu đi, nhưng vẫn có thể cứu vãn được.",
+    t_28: "- Uống rượu bia vô độ trong nhiều năm không chỉ tạo ra một khối u sần sùi trong gan mà còn biến toàn bộ cơ quan này thành một viên sỏi cứng, khiến máu ứ đọng và làm sưng tấy trong cổ họng, đồng thời làm máu mất đi khả năng đông.<br/>- Hiện tại, cơ thể đã nhiễm bệnh và vẫn đang tiếp tục xấu đi, nhưng vẫn có thể cứu vãn được. Bạn có thể trải nghiệm bằng cách làm bệnh nặng thêm hoặc tìm cách chữa trị.",
+    t_29: "BẮT ĐẦU",
+    t_31: "LƯỚI",
     t_32: "CÀI ĐẶT",
     t_33: "Cơ Thể Vướng Mắc",
     t_41: "Hướng dẫn",
+    t_42: "Nhấn vào khối u nhô lên trong phổi để khám phá các bệnh bí ẩn khác.",
+    t_43: "Hướng dẫn",
+    t_44: "Nhấn vào các vùng có dấu hiệu bất thường để bắt đầu kiểm tra.",
     t_45: "Khối u",
+    t_46: "Khối u hình thành do tích tụ nhựa thuốc lá qua nhiều năm, có cấu trúc sắc nhọn và gai giống như rễ cây khô, bám chặt vào mô ngực.",
     t_47: "Suy tim phải",
+    t_48: "Sưng to và đổi màu vì phải cố gắng cực độ để bơm máu qua hệ thống phổi đã cứng lại. Cơ tim trở nên giòn, nhợt nhạt và mệt mỏi vì quá tải.",
     t_49: "Bệnh phổi",
+    t_50: "Mất hoàn toàn màu hồng lành mạnh và độ đàn hồi tự nhiên. Phổi chuyển sang màu lạ với các đốm đen hình tròn do nhựa thuốc lá, ngăn không cho không khí lưu thông qua các xoang xơ phổi.",
     t_51: "Xơ vữa động mạch",
+    t_52: "Bị phủ bởi các mảng xơ vữa màu vàng đục, mờ trong thành mạch, lòng mạch hẹp lại, cứng như ống nhựa cũ giòn gãy khi chịu áp lực tăng.",
+    t_54: "Nhấn vào khối u để biết thêm về các bệnh di căn",
+    t_60: "Hướng dẫn",
+    t_61: "Nhấn vào khối u nhô lên trong phổi để khám phá các bệnh bí ẩn khác.",
+    t_62: "Hướng dẫn",
+    t_63: "Nhấn vào các vùng có dấu hiệu bất thường để bắt đầu kiểm tra.",
+    t_64: "Khối u",
+    t_65: "Nằm trên nền gan cứng, khối u là một mảng mô vàng hoại tử, phát triển lan rộng mà không có ranh giới rõ ràng.",
+    t_66: "Hội chứng thận hư",
+    t_67: "Đổi màu sẫm, teo nhỏ vì thiếu dưỡng chất, dẫn đến các thay đổi toàn thân và áp lực từ gan. Bên trong ống thận, dòng nước tiểu ngừng chảy, làm các tế bào biểu mô thận hoại tử do quá tải độc tố.",
+    t_68: "Xơ gan",
+    t_69: "Gan đỏ sẫm và trơn lái đã được biến đổi hoàn toàn thành khối cứng, sần sùi như đá. Bề mặt gan phủ đầy các nốt nhỏ, thô ráp và teo lại.",
+    t_70: "Giãn tĩnh mạch thực quản",
+    t_71: "Vì máu từ gan không thể đi qua và bị ứ đọng, các tĩnh mạch ở thực quản phồng lên thành cụm sần sùi, uốn cong, màu tím xanh đậm giống các búi giun đất.",
     t_74: "CHỮA TRỊ",
     t_75: "PHÁ HỦY",
     t_80: "Thuốc lá",
+    t_81: "Bạn có thể trải nghiệm sự hủy hoại hoàn toàn cơ thể bằng cách kéo và thả điếu thuốc lá bên dưới.",
     t_82: "Rượu bia",
+    t_83: "Bạn có thể trải nghiệm sự hủy hoại hoàn toàn cơ thể bằng cách kéo và thả chai bên dưới.",
     t_85: "KẾT THÚC",
     t_86: "Kết thúc",
+    t_87: "Cơ thể bạn đã đạt đến giới hạn cuối cùng, một số cơ quan không còn hoạt động và phải được duy trì bằng máy móc.<br/>Nhấn vào các cơ quan đã chết hoặc kết thúc trò chơi.",
+    t_88: "Cơ thể bạn đã đạt đến giới hạn cuối cùng, một số cơ quan không còn hoạt động và phải được duy trì bằng máy móc.<br/>Nhấn vào các cơ quan đã chết hoặc kết thúc trò chơi.",
     t_90: "KẾT THÚC",
     t_91: "Khối u",
+    t_92: "Gai góc, sắc như rễ cây khô, bị phủ bởi lớp nhựa thuốc lá màu xám đen, xâm nhập sâu vào các dây thần kinh lân cận.",
+    t_93: "KẾT THÚC",
     t_94: "Suy tim phải",
+    t_95: "Tim to ra và phình lên vì phải gồng mình bơm máu qua phổi xơ cứng, dẫn đến đột quỵ.",
+    t_96: "KẾT THÚC",
     t_97: "Bệnh phổi",
+    t_98: "Màu xám tro với các mảng đen, thô ráp và rách nát như bọt biển khô, hoàn toàn mất độ đàn hồi.",
+    t_99: "KẾT THÚC",
     t_100: "Xơ vữa động mạch",
+    t_101: "Các động mạch trở nên cứng bên trong, phủ bởi các mảng xơ vữa màu vàng mờ, làm thay đổi màu ngoại vi.",
+    t_103: "KẾT THÚC",
+    t_104: "Kết thúc",
+    t_106: "Cơ thể bạn đã đạt đến giới hạn cuối cùng, một số cơ quan không còn hoạt động và phải được duy trì bằng máy móc.<br/>Nhấn vào các cơ quan đã chết hoặc kết thúc trò chơi.",
+    t_108: "KẾT THÚC",
+    t_109: "Khối u",
+    t_110: "Một vùng hoại tử màu trắng nhợt bám vào và chèn ép các cấu trúc mạch máu lớn.",
+    t_111: "KẾT THÚC",
+    t_112: "Hội chứng thận hư",
+    t_113: "Thận chuyển sang màu sẫm, co lại và cứng vì thiếu dưỡng chất, do áp lực từ gan. Bên trong ống thận, dòng nước tiểu ngừng chảy, làm các tế bào biểu mô thận hoại tử do quá tải độc tố.",
+    t_114: "KẾT THÚC",
+    t_115: "Xơ gan",
+    t_116: "Gan bị biến dạng hoàn toàn thành khối cứng như đá, bề mặt phủ đầy các nốt nhỏ, sần sùi và xơ cứng.",
+    t_117: "KẾT THÚC",
+    t_118: "Giãn tĩnh mạch thực quản",
+    t_119: "Chúng phồng to thành cụm xoắn ốc, màu tím xanh, giống giun đất.",
     t_121: "Phế dung kế",
+    t_122: "Khôi phục trực tiếp hai lá phổi đã cứng và xơ như bọt biển khô, giúp phế nang giãn nở và đưa mức oxy trở lại an toàn.",
     t_123: "Xạ trị",
+    t_124: "Xạ trị làm thu nhỏ khối u ở đỉnh ngực để ngăn chặn nó chèn ép các mô lân cận.",
     t_125: "Kim tiêm hạ áp",
-    t_127: "Dao mổ ",
+    t_126: "Thuốc hạ áp làm sạch các mạch máu chính đang bị co thắt bởi mảng xơ vữa, giúp giảm trực tiếp áp lực lên tim to và quá tải.",
+    t_127: "Dao mổ ngực",
+    t_128: "Loại bỏ hoàn toàn khối u mà không làm sụp hỏng hệ hô hấp.",
     t_129: "Thuốc lá",
+    t_130: "Mỗi khi bạn gián đoạn quá trình và uống rượu lại, nó sẽ buộc bạn phải bắt đầu điều trị từ đầu.<br/>Nhấn để bắt đầu lại",
+    t_131: "Bạn đã vi phạm việc cai thuốc, nên quy trình điều trị sẽ bắt đầu lại từ đầu.<br/>Nhấn để bắt đầu lại",
     t_132: "Hoàn thành",
+    t_133: "Bạn đã loại bỏ hoàn toàn khối u và chữa khỏi bệnh.",
     t_134: "Thuốc chống viêm",
+    t_135: "Làm dịu và mềm hóa gan khô, cứng và sần như đá; đồng thời kích hoạt khả năng tái tạo tế bào lành mạnh.",
     t_136: "Ống nội soi",
+    t_137: "Xử lý hậu quả của tình trạng ứ máu do gan cứng, làm các tĩnh mạch thực quản xẹp lại và gần vỡ.",
     t_138: "Kim nhiệt",
+    t_139: "Chọc trực tiếp khối u để làm nhỏ nó đi một nửa, giải tỏa hoàn toàn áp lực lên các cấu trúc mạch máu lớn đi qua gan.",
     t_140: "Dao mổ ngực",
-    t_142: "Rượu Bia",
+    t_141: "Loại bỏ hoàn toàn khối u mà không làm sụp hỏng hệ hô hấp.",
+    t_142: "Rượu bia",
+    t_143: "Bạn đã vi phạm việc cai thuốc, nên quy trình điều trị sẽ bắt đầu lại từ đầu.<br/>Nhấn để bắt đầu lại",
+    t_144: "Mỗi khi bạn gián đoạn quá trình và uống rượu lại, nó sẽ buộc bạn phải bắt đầu điều trị từ đầu.<br/>Nhấn để bắt đầu lại",
     t_145: "Hoàn thành",
+    t_146: "Bạn đã loại bỏ hoàn toàn khối u và chữa khỏi bệnh.",
     t_148: "CÀI ĐẶT",
     t_149: "Âm thanh:",
     t_150: "Ngôn ngữ:"
@@ -1096,15 +1165,6 @@ window.addEventListener('load', function () {
         });
     }
 
-    // 8. Ảnh 104 (#ThaNChT) -> Instruct 6 & UF6 (Nephrotic syndrome)
-    var thanChTEl = document.getElementById('ThaNChT');
-    if (thanChTEl) {
-        thanChTEl.style.cursor = 'pointer';
-        thanChTEl.addEventListener('click', function () {
-            showUFItem(6);
-        });
-    }
-
     // Thứ tự 5 nhóm xuất hiện cho U1-chit:
     // 1. Mạch máu bệnh -> 2. Chấm đen -> 3. Khối u phổi (54) -> 4. Phổi (53) -> 5. Tim (94)
     var u1GroupIndex = 0;
@@ -1122,13 +1182,12 @@ window.addEventListener('load', function () {
     ];
 
     // Thứ tự 4 lần kéo xuất hiện cho U2-chit:
-    // Lần 1: u (#UB2Chit) -> Lần 2: gan (#GanChet) -> Lần 3: dday (#TrCTrNgChit) -> Lần 4: than (#ThaNChT)
+    // Lần 1: u (#UB2Chit) -> Lần 2: gan (#GanChet) -> Lần 3: dday (#TrCTrNgChit)
     var u2GroupIndex = 0;
     var u2ChitGroups = [
         ['UB2Chit'],
         ['GanChet'],
-        ['TrCTrNgChit'],
-        ['ThaNChT']
+        ['TrCTrNgChit']
     ];
 
     // ── Helper: Tạo hiệu ứng tác động độc hại khi thả ảnh 105 & 106 ──
@@ -1357,6 +1416,8 @@ window.addEventListener('load', function () {
                     }
                 } else if (chitClass === 'U2-chit') {
                     if (u2GroupIndex < u2ChitGroups.length) {
+                        resetU2FixToStart();
+
                         var groupIds2 = u2ChitGroups[u2GroupIndex];
                         var targetEls2 = groupIds2.map(function (id) {
                             return document.getElementById(id);
@@ -1380,13 +1441,6 @@ window.addEventListener('load', function () {
                             // Lần 3: dday (#TrCTrNgChit) xuất hiện -> ẩn hình 99 (#TrCTrNg)
                             var h99 = document.getElementById('TrCTrNg');
                             if (h99) fadeOut(h99, 400);
-                        } else if (u2GroupIndex === 3) {
-                            // Lần 4: than (#ThaNChT) xuất hiện -> ẩn hình 103 (#ThanBenh)
-                            var h103 = document.getElementById('ThanBenh');
-                            if (h103) fadeOut(h103, 400);
-
-                            var benhEls2 = document.querySelectorAll('.' + benhClass);
-                            fadeOut(benhEls2, 400);
                         }
 
                         u2GroupIndex++;
@@ -1539,6 +1593,51 @@ window.addEventListener('load', function () {
     window.showU1Fix5 = false;
     window.showU2Fix5 = false;
 
+    function resetU2FixToStart() {
+        currentToolIndexU2 = 0;
+        window.currentToolIndexU2 = 0;
+        window.showU2Fix5 = false;
+
+        var finishRect = document.getElementById('Rectangle4');
+        if (finishRect) finishRect.style.display = 'none';
+
+        var finishText = document.getElementById('Finishtext');
+        if (finishText) finishText.style.display = 'none';
+
+        if (typeof window.updateU2FixText === 'function') window.updateU2FixText();
+    }
+
+    function resetU2FixAfterAlcohol() {
+        resetU2FixToStart();
+        window.showU2Fix5 = true;
+
+        ['Than', 'DDay', 'Gan'].forEach(function (id) {
+            var healthy = document.getElementById(id);
+            if (healthy) healthy.style.display = 'none';
+        });
+
+        ['ThanBenh', 'TrCTrNg', 'GanTM', 'UB2'].forEach(function (id) {
+            var disease = document.getElementById(id);
+            if (disease) {
+                disease.style.display = 'block';
+                disease.style.opacity = '1';
+            }
+        });
+
+        ['TrCTrNgChit', 'GanChet', 'UB2Chit'].forEach(function (id) {
+            var previousResult = document.getElementById(id);
+            if (previousResult) previousResult.style.display = 'none';
+        });
+
+        document.querySelectorAll('.U2-Fix .Fix2').forEach(function (tool) {
+            if (tool.id === 'RuouBia') return;
+            tool.style.display = 'block';
+            tool.style.opacity = '1';
+        });
+
+        if (typeof window.updateU2FixText === 'function') window.updateU2FixText();
+    }
+
     window.updateU1FixText = function () {
         var u1FixSection = document.querySelector('.U1-Fix');
         if (!u1FixSection || !u1FixSection.classList.contains('active')) return;
@@ -1600,8 +1699,8 @@ window.addEventListener('load', function () {
     });
 
 
-    var u2DiseaseIds = ['ThanBenh', 'TrCTrNg', 'GanTM', 'UB2', 'ThaNChT', 'TrCTrNgChit', 'GanChet', 'UB2Chit'];
-    var allPool = ['RuTKhI', 'MUXanh', 'MU', 'Artboard901', 'MChMUBNh', 'MUBenh1', 'MUBenh2', 'MUBenh3', 'MUBenh4', 'MUBenh5', 'DDay', 'Gan', 'RuTDai', 'PhI', 'PhIXanh', 'ChMXanhTrI', 'ChMXanhPhI', 'PhIChit', 'ChMDenPhI', 'ChMTraTrI', 'Tim', 'Timbenh', 'TimChT', 'Than', 'MUDI', 'MUXanhDI', 'Artboard721', 'Artboard651', 'Artboard661', 'MUBenh6', 'MUBenh7', 'MUBenh8', 'MUBenh9', 'MUBenh10', 'MUBenh11', 'MUBenh12', 'MUBenh13', 'MUBenh14', 'UB', 'UBDam', 'TrCTrNg', 'TrCTrNgChit', 'GanTM', 'GanChet', 'ThanBenh', 'ThaNChT', 'UB2', 'UB2Chit'];
+    var u2DiseaseIds = ['ThanBenh', 'TrCTrNg', 'GanTM', 'UB2', 'TrCTrNgChit', 'GanChet', 'UB2Chit'];
+    var allPool = ['RuTKhI', 'MUXanh', 'MU', 'Artboard901', 'MChMUBNh', 'MUBenh1', 'MUBenh2', 'MUBenh3', 'MUBenh4', 'MUBenh5', 'DDay', 'Gan', 'RuTDai', 'PhI', 'PhIXanh', 'ChMXanhTrI', 'ChMXanhPhI', 'PhIChit', 'ChMDenPhI', 'ChMTraTrI', 'Tim', 'Timbenh', 'TimChT', 'Than', 'MUDI', 'MUXanhDI', 'Artboard721', 'Artboard651', 'Artboard661', 'MUBenh6', 'MUBenh7', 'MUBenh8', 'MUBenh9', 'MUBenh10', 'MUBenh11', 'MUBenh12', 'MUBenh13', 'MUBenh14', 'UB', 'UBDam', 'TrCTrNg', 'TrCTrNgChit', 'GanTM', 'GanChet', 'ThanBenh', 'UB2', 'UB2Chit'];
 
     function getCorrectTargets(el) {
         if (el.id === 'Mthoiphoi') return ['ChMXanhTrI', 'ChMXanhPhI', 'PhIXanh'];
@@ -2033,12 +2132,8 @@ window.addEventListener('load', function () {
                                     target103.style.transition = 'opacity 0.5s ease';
                                     target103.style.opacity = '0';
 
-                                    var target104 = document.getElementById('ThaNChT');
-                                    if (target104) { target104.style.transition = 'opacity 0.5s ease'; target104.style.opacity = '0'; }
-
                                     setTimeout(function () {
                                         target103.style.display = 'none';
-                                        if (target104) target104.style.display = 'none';
 
                                         var target102 = document.querySelector('.U2#Than');
                                         if (target102) {
@@ -2418,21 +2513,21 @@ window.addEventListener('load', function () {
                     currentToolIndex = 0; window.currentToolIndex = 0; window.showU1Fix5 = true; if (typeof window.updateU1FixText === 'function') window.updateU1FixText();
                 }
             } else if (el.id === 'RuouBia') {
-                var target102 = document.getElementById('Than');
+                var target102 = document.querySelector('.U2#Than');
                 if (target102 && window.getComputedStyle(target102).display !== 'none' && checkOverlap(el, target102)) {
                     // Hide healthy
                     target102.style.transition = 'opacity 0.5s ease';
                     target102.style.opacity = '0';
                     setTimeout(function () { target102.style.display = 'none'; }, 500);
 
-                    var target33 = document.getElementById('DDay');
+                    var target33 = document.querySelector('.U2#DDay');
                     if (target33) {
                         target33.style.transition = 'opacity 0.5s ease';
                         target33.style.opacity = '0';
                         setTimeout(function () { target33.style.display = 'none'; }, 500);
                     }
 
-                    var target9 = document.getElementById('Gan');
+                    var target9 = document.querySelector('.U2#Gan');
                     if (target9) {
                         target9.style.transition = 'opacity 0.5s ease';
                         target9.style.opacity = '0';
@@ -2452,13 +2547,11 @@ window.addEventListener('load', function () {
                     var target47 = document.getElementById('UB2');
                     if (target47) { target47.style.display = 'block'; target47.style.opacity = '0'; setTimeout(function () { target47.style.opacity = '1'; }, 10); }
 
-
                     var ft20 = document.getElementById('Finishtext');
-
                     if (ft20) ft20.style.display = 'none';
 
                     el.style.display = 'none';
-                    currentToolIndexU2 = 0; window.currentToolIndexU2 = 0; window.showU2Fix5 = true; if (typeof window.updateU2FixText === 'function') window.updateU2FixText();
+                    resetU2FixAfterAlcohol();
                 }
             }
 
@@ -2597,21 +2690,21 @@ window.addEventListener('load', function () {
                     currentToolIndex = 0; window.currentToolIndex = 0; window.showU1Fix5 = true; if (typeof window.updateU1FixText === 'function') window.updateU1FixText();
                 }
             } else if (el.id === 'RuouBia') {
-                var target102 = document.getElementById('Than');
+                var target102 = document.querySelector('.U2#Than');
                 if (target102 && window.getComputedStyle(target102).display !== 'none' && checkOverlap(el, target102)) {
                     // Hide healthy
                     target102.style.transition = 'opacity 0.5s ease';
                     target102.style.opacity = '0';
                     setTimeout(function () { target102.style.display = 'none'; }, 500);
 
-                    var target33 = document.getElementById('DDay');
+                    var target33 = document.querySelector('.U2#DDay');
                     if (target33) {
                         target33.style.transition = 'opacity 0.5s ease';
                         target33.style.opacity = '0';
                         setTimeout(function () { target33.style.display = 'none'; }, 500);
                     }
 
-                    var target9 = document.getElementById('Gan');
+                    var target9 = document.querySelector('.U2#Gan');
                     if (target9) {
                         target9.style.transition = 'opacity 0.5s ease';
                         target9.style.opacity = '0';
@@ -2631,13 +2724,11 @@ window.addEventListener('load', function () {
                     var target47 = document.getElementById('UB2');
                     if (target47) { target47.style.display = 'block'; target47.style.opacity = '0'; setTimeout(function () { target47.style.opacity = '1'; }, 10); }
 
-
                     var ft20 = document.getElementById('Finishtext');
-
                     if (ft20) ft20.style.display = 'none';
 
                     el.style.display = 'none';
-                    currentToolIndexU2 = 0; window.currentToolIndexU2 = 0; window.showU2Fix5 = true; if (typeof window.updateU2FixText === 'function') window.updateU2FixText();
+                    resetU2FixAfterAlcohol();
                 }
             }
 
