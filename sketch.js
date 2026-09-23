@@ -1498,6 +1498,13 @@ window.addEventListener('load', function () {
                                     el.classList.add('active');
                                     fadeIn(el, 600);
                                 });
+
+                                // 4. Hiển thị cảnh final destroy của U1 sau khi kéo thả kết thúc
+                                var finalDesU1 = document.querySelector('.Final-DesU1');
+                                if (finalDesU1) {
+                                    finalDesU1.classList.add('active');
+                                    fadeIn(finalDesU1, 600);
+                                }
                             }, 600);
                         }
                     }
@@ -1557,6 +1564,13 @@ window.addEventListener('load', function () {
                                     el.classList.add('active');
                                     fadeIn(el, 600);
                                 });
+
+                                // 4. Hiển thị cảnh final destroy của U2 sau khi kéo thả kết thúc
+                                var finalDesU2 = document.querySelector('.Final-DesU2');
+                                if (finalDesU2) {
+                                    finalDesU2.classList.add('active');
+                                    fadeIn(finalDesU2, 600);
+                                }
                             }, 600);
                         }
                     }

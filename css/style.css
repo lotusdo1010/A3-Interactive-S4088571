@@ -417,6 +417,96 @@ body {
     z-index: 8;
 }
 
+.Final-DesU1,
+.Final-DesU2 {
+    position: relative;
+    display: block;
+    animation: finalDestroyFloat 3.8s ease-in-out infinite alternate;
+    transform-origin: center;
+}
+
+.Final-DesU1 .faace,
+.Final-DesU2 .faace {
+    position: absolute;
+}
+
+@keyframes finalDestroyFloat {
+    0% {
+        transform: translateY(0px);
+    }
+    100% {
+        transform: translateY(-6px);
+    }
+}
+
+#Artboard118 {
+    width: 104px;
+    height: 97px;
+    left: 472px;
+    top: 487px;
+}
+
+#Artboard119 {
+    width: 101px;
+    height: 102px;
+    left: 667px;
+    top: 524px;
+}
+
+#Artboard122 {
+    width: 98px;
+    height: 68px;
+    left: 472px;
+    top: 680px;
+}
+
+#Artboard121 {
+    width: 117px;
+    height: 81px;
+    left: 595px;
+    top: 708px;
+}
+
+#Artboard123 {
+    width: 88px;
+    height: 61px;
+    left: 603px;
+    top: 855px;
+}
+#Artboard125 {
+    width: 98.33px; height: 68px; left: 708px; top: 690px; position: absolute;
+}
+
+.Final-DesU2 #Artboard121 {
+    width: 103px;
+    height: 71px;
+    left: 598px;
+    top: 715px;
+}
+
+.Final-DesU2 #Artboard123 {
+    width: 88px;
+    height: 61px;
+    left: 603px;
+    top: 855px;
+}
+
+#Artboard117 {
+    width: 134px;
+    height: 80px;
+    left: 675px;
+    top: 398px;
+}
+
+#Artboard124 {width: 132px; height: 79px; left: 455px; top: 399px; position: absolute;}
+
+#Artboard120 {
+    width: 114px;
+    height: 78px;
+    left: 585px;
+    top: 300px;
+}
+
 /* ===================== Structure ===================== */
 .Structure {
     position: relative;
@@ -915,6 +1005,8 @@ body {
 .finish1,
 .Finish2,
 .finish2,
+.Final-DesU1,
+.Final-DesU2,
 .U1-Fix,
 .U2-Fix {
     display: none;
@@ -930,6 +1022,8 @@ body {
 .finish1.active,
 .Finish2.active,
 .finish2.active,
+.Final-DesU1.active,
+.Final-DesU2.active,
 .UF-item.active,
 .U1-Fix.active,
 .U2-Fix.active {
